@@ -1,0 +1,6 @@
+.github/ @caiofernandes00 @JPBeckner
+.docker/ @caiofernandes00 @JPBeckner
+
+.src/ @caiofernandes00
+__tests__/ @caiofernandes00
+.*/ @caiofernandes00
