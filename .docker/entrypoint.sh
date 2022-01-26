@@ -6,5 +6,6 @@ fi
 npm install -f
 
 npm run typeorm:migration:run
+npm run seed
 
 npm run start:dev
